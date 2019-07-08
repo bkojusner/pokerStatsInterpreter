@@ -16,3 +16,5 @@ Currently just a script which analyzes what hand is given and determines what wo
 - Menu to declare amount of people at a table just once and clean up display and quickness of use
 - Data set to train program to make better decisions that are not hardcoded
 - A way to calculate pot-odds so that the program can be used in-game as well
+
+disclaimer: This program is written just for testing purposes, please don't use it for any real world game scenarios as the data is still being developed
